@@ -1,0 +1,15 @@
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\obj\Debug\net7.0\EX003.csproj.AssemblyReference.cache
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\obj\Debug\net7.0\EX003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\obj\Debug\net7.0\EX003.AssemblyInfoInputs.cache
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\obj\Debug\net7.0\EX003.AssemblyInfo.cs
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\obj\Debug\net7.0\EX003.csproj.CoreCompileInputs.cache
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\bin\Debug\net7.0\EX003.exe
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\bin\Debug\net7.0\EX003.deps.json
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\bin\Debug\net7.0\EX003.runtimeconfig.json
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\bin\Debug\net7.0\EX003.dll
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\bin\Debug\net7.0\EX003.pdb
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\obj\Debug\net7.0\EX003.dll
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\obj\Debug\net7.0\refint\EX003.dll
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\obj\Debug\net7.0\EX003.pdb
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\obj\Debug\net7.0\EX003.genruntimeconfig.cache
+D:\Education_GEEK_BRAIN\Work folder GIT\SharpProgram\Seninar001\EX003\obj\Debug\net7.0\ref\EX003.dll
