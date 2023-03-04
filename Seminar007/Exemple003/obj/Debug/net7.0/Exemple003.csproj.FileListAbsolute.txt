@@ -1,0 +1,15 @@
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\obj\Debug\net7.0\Exemple003.csproj.AssemblyReference.cache
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\obj\Debug\net7.0\Exemple003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\obj\Debug\net7.0\Exemple003.AssemblyInfoInputs.cache
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\obj\Debug\net7.0\Exemple003.AssemblyInfo.cs
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\obj\Debug\net7.0\Exemple003.csproj.CoreCompileInputs.cache
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\bin\Debug\net7.0\Exemple003.exe
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\bin\Debug\net7.0\Exemple003.deps.json
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\bin\Debug\net7.0\Exemple003.runtimeconfig.json
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\bin\Debug\net7.0\Exemple003.dll
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\bin\Debug\net7.0\Exemple003.pdb
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\obj\Debug\net7.0\Exemple003.dll
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\obj\Debug\net7.0\refint\Exemple003.dll
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\obj\Debug\net7.0\Exemple003.pdb
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\obj\Debug\net7.0\Exemple003.genruntimeconfig.cache
+D:\Education_GEEK_BRAIN\Seminar_Folder\Sem_VvedenieC#\Seminar007\Exemple003\obj\Debug\net7.0\ref\Exemple003.dll
